@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @atphelan
-- 🌱 I’m currently learning Data Science using Python.
+- 🌱 I have worked as a Data Scientist and built some projects in Python
+- I currently do biophysical modelling of cell populations to help explain and improve data!
 
 
 <!---
