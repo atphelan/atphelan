@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atphelan
-- 🌱 I have worked as a Data Scientist and built some projects in Python
-- I currently do biophysical modelling of cell populations to help explain and improve data!
+- 🌱 My background is in theoretical physics (MSci) and I have worked as a Data Scientist for the agrifood industry
+- I currently do population-level biophysical modelling of cell populations (PhD) to help explain and improve lab data!
 
 
 <!---
