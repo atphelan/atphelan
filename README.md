@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atphelan
 - 🌱 My background is in theoretical physics (MSci) and I have worked as a Data Scientist for the agrifood industry
-- I currently do population-level biophysical modelling of cell populations (PhD) to help explain and improve lab data!
+- I now do collaborative population-level biophysical modelling of blood cells to help explain and improve lab data!
 
 
 <!---
